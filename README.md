@@ -1,4 +1,4 @@
-The buisness request was to design a dashboard where stakeholders are able to analyze the reason behind theincrease in the bills amount from a month to another.
+The buisness request was to design a dashboard where stakeholders are able to analyze the reason behind the increase in the bills amount from a month to another.
 
 Tools used : Microsoft SQL server & Oracle developer & Microsoft Power BI 
 
